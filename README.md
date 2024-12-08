@@ -1,3 +1,4 @@
+![](./github-header-image.png)
 # 💫 About Me:
 🔭 I’m currently a Ph.D. candidate of Electronic Engineering<br>👯 I’m looking to collaborate on (neo)vim customization <br>🤝 I’m looking for help with matrix analysis<br>🌱 I’m currently learning heuristic search algorithm<br>💬 Ask me about navigation and signal processing
 
